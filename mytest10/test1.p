@@ -21,3 +21,5 @@ BLOCK-LEVEL ON ERROR UNDO, THROW.
 
 /* ***************************  Main Block  *************************** */
 MESSAGE "Hello" VIEW-AS ALERT-BOX.
+
+MESSAGE "Goodby" VIEW-AS ALERT-BOX.
